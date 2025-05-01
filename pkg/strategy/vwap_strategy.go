@@ -74,8 +74,8 @@ func (s *VWAPStrategy) AnalyzeStock(candles []models.Candle) *Signal {
 		return nil
 	}
 
-	// Get current price from the last candle
-	currentPrice := candles[len(candles)-1].Close
+	// Get current price from the first candle (newest)
+	currentPrice := candles[0].Close
 
 	vwap := CalculateVWAP(candles)
 	if vwap == 0 {
