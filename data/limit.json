@@ -1,0 +1,2492 @@
+{
+  "NSE_EQ|INE002A01018": {
+    "UpperLimit": 1.9554748516156186,
+    "LowerLimit": 1.6450915856360595,
+    "Symbol": "RELIANCE"
+  },
+  "NSE_EQ|INE002L01015": {
+    "UpperLimit": 2.5217564679567674,
+    "LowerLimit": 5.353909125477393,
+    "Symbol": "SJVN"
+  },
+  "NSE_EQ|INE002S01010": {
+    "UpperLimit": 3.0102673687811166,
+    "LowerLimit": 3.078162649220323,
+    "Symbol": "MGL"
+  },
+  "NSE_EQ|INE003A01024": {
+    "UpperLimit": 10.704600789497759,
+    "LowerLimit": 4.632951578421822,
+    "Symbol": "SIEMENS"
+  },
+  "NSE_EQ|INE006I01046": {
+    "UpperLimit": 3.2932267760263008,
+    "LowerLimit": 3.3947411082396273,
+    "Symbol": "ASTRAL"
+  },
+  "NSE_EQ|INE007A01025": {
+    "UpperLimit": 7.801491039407627,
+    "LowerLimit": 2.7017329219108945,
+    "Symbol": "CRISIL"
+  },
+  "NSE_EQ|INE008A01015": {
+    "UpperLimit": 7.482275516874459,
+    "LowerLimit": 3.0841524352560956,
+    "Symbol": "IDBI"
+  },
+  "NSE_EQ|INE009A01021": {
+    "UpperLimit": 2.760718039149678,
+    "LowerLimit": 1.752614417599596,
+    "Symbol": "INFY"
+  },
+  "NSE_EQ|INE00E101023": {
+    "UpperLimit": 6.084790363458587,
+    "LowerLimit": 4.222854616239419,
+    "Symbol": "BIKAJI"
+  },
+  "NSE_EQ|INE00LO01017": {
+    "UpperLimit": 4.981049015643113,
+    "LowerLimit": 3.177736602828534,
+    "Symbol": "CRAFTSMAN"
+  },
+  "NSE_EQ|INE00M201021": {
+    "UpperLimit": 5.997440166920513,
+    "LowerLimit": 4.547192483265699,
+    "Symbol": "SWSOLAR"
+  },
+  "NSE_EQ|INE00R701025": {
+    "UpperLimit": 2.568315282629308,
+    "LowerLimit": 3.6832905243483136,
+    "Symbol": "DALBHARAT"
+  },
+  "NSE_EQ|INE00WC01027": {
+    "UpperLimit": 2.6719481777619443,
+    "LowerLimit": 6.099329397307279,
+    "Symbol": "AFFLE"
+  },
+  "NSE_EQ|INE010B01027": {
+    "UpperLimit": 2.138337362474984,
+    "LowerLimit": 3.7124561904127016,
+    "Symbol": "ZYDUSLIFE"
+  },
+  "NSE_EQ|INE010J01012": {
+    "UpperLimit": 4.775088584562392,
+    "LowerLimit": 3.651825847415944,
+    "Symbol": "TEJASNET"
+  },
+  "NSE_EQ|INE010V01017": {
+    "UpperLimit": 2.306174807066245,
+    "LowerLimit": 2.329758447609178,
+    "Symbol": "LTTS"
+  },
+  "NSE_EQ|INE012A01025": {
+    "UpperLimit": 2.1873963712689837,
+    "LowerLimit": 2.8574556116262357,
+    "Symbol": "ACC"
+  },
+  "NSE_EQ|INE016A01026": {
+    "UpperLimit": 2.637595415893751,
+    "LowerLimit": 1.7142747210829326,
+    "Symbol": "DABUR"
+  },
+  "NSE_EQ|INE017A01032": {
+    "UpperLimit": 3.123388333549867,
+    "LowerLimit": 2.3186505698573168,
+    "Symbol": "GESHIP"
+  },
+  "NSE_EQ|INE018A01030": {
+    "UpperLimit": 1.7393697087644362,
+    "LowerLimit": 3.418654093739382,
+    "Symbol": "LT"
+  },
+  "NSE_EQ|INE018E01016": {
+    "UpperLimit": 3.442690400400006,
+    "LowerLimit": 2.1917932355811045,
+    "Symbol": "SBICARD"
+  },
+  "NSE_EQ|INE019A01038": {
+    "UpperLimit": 1.9045196841428051,
+    "LowerLimit": 3.125992735389941,
+    "Symbol": "JSWSTEEL"
+  },
+  "NSE_EQ|INE019C01026": {
+    "UpperLimit": 4.155679995166937,
+    "LowerLimit": 3.0820019407344454,
+    "Symbol": "HSCL"
+  },
+  "NSE_EQ|INE020B01018": {
+    "UpperLimit": 3.249953171461321,
+    "LowerLimit": 4.483267549054003,
+    "Symbol": "RECLTD"
+  },
+  "NSE_EQ|INE021A01026": {
+    "UpperLimit": 3.3566779368456663,
+    "LowerLimit": 1.7312230662723282,
+    "Symbol": "ASIANPAINT"
+  },
+  "NSE_EQ|INE022Q01020": {
+    "UpperLimit": 3.3329036131174625,
+    "LowerLimit": 3.3917856190278943,
+    "Symbol": "IEX"
+  },
+  "NSE_EQ|INE026A01025": {
+    "UpperLimit": 3.620187700338883,
+    "LowerLimit": 3.535889997705506,
+    "Symbol": "GSFC"
+  },
+  "NSE_EQ|INE027A01015": {
+    "UpperLimit": 3.7943115719140543,
+    "LowerLimit": 4.271517272835094,
+    "Symbol": "RCF"
+  },
+  "NSE_EQ|INE027H01010": {
+    "UpperLimit": 2.8967105033406098,
+    "LowerLimit": 2.5373056709632595,
+    "Symbol": "MAXHEALTH"
+  },
+  "NSE_EQ|INE028A01039": {
+    "UpperLimit": 2.0960391186227527,
+    "LowerLimit": 2.3708941789941163,
+    "Symbol": "BANKBARODA"
+  },
+  "NSE_EQ|INE029A01011": {
+    "UpperLimit": 2.709737842334465,
+    "LowerLimit": 3.090735568537871,
+    "Symbol": "BPCL"
+  },
+  "NSE_EQ|INE030A01027": {
+    "UpperLimit": 3.1244802473346702,
+    "LowerLimit": 2.861919304268876,
+    "Symbol": "HINDUNILVR"
+  },
+  "NSE_EQ|INE031A01017": {
+    "UpperLimit": 3.646138516378353,
+    "LowerLimit": 5.821427501388268,
+    "Symbol": "HUDCO"
+  },
+  "NSE_EQ|INE031B01049": {
+    "UpperLimit": 5.4904936827406825,
+    "LowerLimit": 2.475805145509566,
+    "Symbol": "AJANTPHARM"
+  },
+  "NSE_EQ|INE036B01030": {
+    "UpperLimit": 4.72943932544419,
+    "LowerLimit": 4.30164889571422,
+    "Symbol": "GAEL"
+  },
+  "NSE_EQ|INE036D01028": {
+    "UpperLimit": 2.3359762461987468,
+    "LowerLimit": 2.6432102814015983,
+    "Symbol": "KARURVYSYA"
+  },
+  "NSE_EQ|INE038A01020": {
+    "UpperLimit": 2.412405973739978,
+    "LowerLimit": 2.7053580070255583,
+    "Symbol": "HINDALCO"
+  },
+  "NSE_EQ|INE039A01010": {
+    "UpperLimit": 3.774650837987577,
+    "LowerLimit": 4.885593420410127,
+    "Symbol": "IFCI"
+  },
+  "NSE_EQ|INE03JT01014": {
+    "UpperLimit": 8.49924994391696,
+    "LowerLimit": 4.382167877688431,
+    "Symbol": "GODIGIT"
+  },
+  "NSE_EQ|INE03QK01018": {
+    "UpperLimit": 5.345060210195765,
+    "LowerLimit": 7.70227557664585,
+    "Symbol": "SUVENPHAR"
+  },
+  "NSE_EQ|INE040A01034": {
+    "UpperLimit": 1.1498454363119774,
+    "LowerLimit": 1.4290844896759392,
+    "Symbol": "HDFCBANK"
+  },
+  "NSE_EQ|INE040H01021": {
+    "UpperLimit": 4.947140654774583,
+    "LowerLimit": 6.4888306994726594,
+    "Symbol": "SUZLON"
+  },
+  "NSE_EQ|INE042A01014": {
+    "UpperLimit": 2.7147872646312075,
+    "LowerLimit": 2.306003994780996,
+    "Symbol": "ESCORTS"
+  },
+  "NSE_EQ|INE043W01024": {
+    "UpperLimit": 5.211060705885281,
+    "LowerLimit": 5.638832050824031,
+    "Symbol": "VIJAYA"
+  },
+  "NSE_EQ|INE044A01036": {
+    "UpperLimit": 1.676415068139477,
+    "LowerLimit": 2.7127234328435,
+    "Symbol": "SUNPHARMA"
+  },
+  "NSE_EQ|INE047A01021": {
+    "UpperLimit": 2.247768970836958,
+    "LowerLimit": 2.0939237134019697,
+    "Symbol": "GRASIM"
+  },
+  "NSE_EQ|INE048G01026": {
+    "UpperLimit": 5.249451777247436,
+    "LowerLimit": 2.7828885112293635,
+    "Symbol": "NAVINFLUOR"
+  },
+  "NSE_EQ|INE04I401011": {
+    "UpperLimit": 5.184828836470684,
+    "LowerLimit": 3.3791841608131343,
+    "Symbol": "KPITTECH"
+  },
+  "NSE_EQ|INE050A01025": {
+    "UpperLimit": 3.855665912624779,
+    "LowerLimit": 2.8164103822192876,
+    "Symbol": "BBTC"
+  },
+  "NSE_EQ|INE050E01027": {
+    "UpperLimit": 3.9788117785658565,
+    "LowerLimit": 4.296254812626938,
+    "Symbol": "BALAMINES"
+  },
+  "NSE_EQ|INE053A01029": {
+    "UpperLimit": 3.7465736242489815,
+    "LowerLimit": 4.1664970667339825,
+    "Symbol": "INDHOTEL"
+  },
+  "NSE_EQ|INE053F01010": {
+    "UpperLimit": 3.548416777681804,
+    "LowerLimit": 6.306754461573932,
+    "Symbol": "IRFC"
+  },
+  "NSE_EQ|INE054A01027": {
+    "UpperLimit": 6.8148608989833095,
+    "LowerLimit": 3.145397295874502,
+    "Symbol": "VIPIND"
+  },
+  "NSE_EQ|INE055A01016": {
+    "UpperLimit": 10.528545010985212,
+    "LowerLimit": 3.928598537369778,
+    "Symbol": "ABREL"
+  },
+  "NSE_EQ|INE058A01010": {
+    "UpperLimit": 2.698231867057399,
+    "LowerLimit": 3.7760502658059902,
+    "Symbol": "SANOFI"
+  },
+  "NSE_EQ|INE059A01026": {
+    "UpperLimit": 4.513091412905964,
+    "LowerLimit": 2.692537204059204,
+    "Symbol": "CIPLA"
+  },
+  "NSE_EQ|INE061F01013": {
+    "UpperLimit": 4.478459247832951,
+    "LowerLimit": 3.1958128146220335,
+    "Symbol": "FORTIS"
+  },
+  "NSE_EQ|INE062A01020": {
+    "UpperLimit": 2.2357333885180015,
+    "LowerLimit": 1.9446526562172672,
+    "Symbol": "SBIN"
+  },
+  "NSE_EQ|INE063P01018": {
+    "UpperLimit": 4.106300937048885,
+    "LowerLimit": 2.7562753358780454,
+    "Symbol": "EQUITASBNK"
+  },
+  "NSE_EQ|INE064C01022": {
+    "UpperLimit": 3.843862273547812,
+    "LowerLimit": 3.4882380886443087,
+    "Symbol": "TRIDENT"
+  },
+  "NSE_EQ|INE065X01017": {
+    "UpperLimit": 4.1748279595960955,
+    "LowerLimit": 3.3936741211240173,
+    "Symbol": "INDGN"
+  },
+  "NSE_EQ|INE066A01021": {
+    "UpperLimit": 3.3835051285283506,
+    "LowerLimit": 2.2619569375220894,
+    "Symbol": "EICHERMOT"
+  },
+  "NSE_EQ|INE066F01020": {
+    "UpperLimit": 2.875458309553681,
+    "LowerLimit": 6.4321547924776175,
+    "Symbol": "HAL"
+  },
+  "NSE_EQ|INE066P01011": {
+    "UpperLimit": 5.769767667341527,
+    "LowerLimit": 7.660946295532969,
+    "Symbol": "INOXWIND"
+  },
+  "NSE_EQ|INE067A01029": {
+    "UpperLimit": 5.937149993612529,
+    "LowerLimit": 5.133597276428828,
+    "Symbol": "CGPOWER"
+  },
+  "NSE_EQ|INE068V01023": {
+    "UpperLimit": 5.03149053381098,
+    "LowerLimit": 4.437767627788871,
+    "Symbol": "GLAND"
+  },
+  "NSE_EQ|INE070A01015": {
+    "UpperLimit": 2.359607019025901,
+    "LowerLimit": 3.375539218312178,
+    "Symbol": "SHREECEM"
+  },
+  "NSE_EQ|INE073K01018": {
+    "UpperLimit": 2.652840233391496,
+    "LowerLimit": 2.88200534984728,
+    "Symbol": "SONACOMS"
+  },
+  "NSE_EQ|INE074A01025": {
+    "UpperLimit": 4.3193304746625705,
+    "LowerLimit": 3.7290788700299293,
+    "Symbol": "PRAJIND"
+  },
+  "NSE_EQ|INE075A01022": {
+    "UpperLimit": 2.4641534967867122,
+    "LowerLimit": 2.0413947368605982,
+    "Symbol": "WIPRO"
+  },
+  "NSE_EQ|INE079A01024": {
+    "UpperLimit": 3.0581775123138595,
+    "LowerLimit": 3.6632076226322083,
+    "Symbol": "AMBUJACEM"
+  },
+  "NSE_EQ|INE07O001026": {
+    "UpperLimit": 4.683553336016856,
+    "LowerLimit": 5.870255429642503,
+    "Symbol": "EASEMYTRIP"
+  },
+  "NSE_EQ|INE07Y701011": {
+    "UpperLimit": 5.529099148967747,
+    "LowerLimit": 7.201859856682044,
+    "Symbol": "POWERINDIA"
+  },
+  "NSE_EQ|INE081A01020": {
+    "UpperLimit": 2.140044670054707,
+    "LowerLimit": 3.092416954477395,
+    "Symbol": "TATASTEEL"
+  },
+  "NSE_EQ|INE084A01016": {
+    "UpperLimit": 3.3622320102262333,
+    "LowerLimit": 3.636270875077647,
+    "Symbol": "BANKINDIA"
+  },
+  "NSE_EQ|INE085A01013": {
+    "UpperLimit": 2.604512412318633,
+    "LowerLimit": 3.516117302365407,
+    "Symbol": "CHAMBLFERT"
+  },
+  "NSE_EQ|INE087H01022": {
+    "UpperLimit": 3.1243590965817614,
+    "LowerLimit": 3.700670550576121,
+    "Symbol": "RENUKA"
+  },
+  "NSE_EQ|INE089A01031": {
+    "UpperLimit": 1.4727520789189419,
+    "LowerLimit": 3.1535053855070516,
+    "Symbol": "DRREDDY"
+  },
+  "NSE_EQ|INE090A01021": {
+    "UpperLimit": 1.5534234166103589,
+    "LowerLimit": 2.2328926098005484,
+    "Symbol": "ICICIBANK"
+  },
+  "NSE_EQ|INE092A01019": {
+    "UpperLimit": 2.574862645996612,
+    "LowerLimit": 2.2438671839251745,
+    "Symbol": "TATACHEM"
+  },
+  "NSE_EQ|INE092T01019": {
+    "UpperLimit": 3.4091043751484773,
+    "LowerLimit": 2.7282396609586517,
+    "Symbol": "IDFCFIRSTB"
+  },
+  "NSE_EQ|INE093I01010": {
+    "UpperLimit": 2.327215978437158,
+    "LowerLimit": 3.8785012035970072,
+    "Symbol": "OBEROIRLTY"
+  },
+  "NSE_EQ|INE094A01015": {
+    "UpperLimit": 4.081478228004924,
+    "LowerLimit": 4.0644610863310495,
+    "Symbol": "HINDPETRO"
+  },
+  "NSE_EQ|INE094J01016": {
+    "UpperLimit": 4.563811846715755,
+    "LowerLimit": 3.0947305946450627,
+    "Symbol": "UTIAMC"
+  },
+  "NSE_EQ|INE095A01012": {
+    "UpperLimit": 4.322656651008039,
+    "LowerLimit": 6.000147208303615,
+    "Symbol": "INDUSINDBK"
+  },
+  "NSE_EQ|INE095N01031": {
+    "UpperLimit": 4.283680514768876,
+    "LowerLimit": 6.825741694724064,
+    "Symbol": "NBCC"
+  },
+  "NSE_EQ|INE09N301011": {
+    "UpperLimit": 4.102004796829802,
+    "LowerLimit": 3.4338676929294816,
+    "Symbol": "FLUOROCHEM"
+  },
+  "NSE_EQ|INE09XN01023": {
+    "UpperLimit": 5.447183245329574,
+    "LowerLimit": 3.9712341430525617,
+    "Symbol": "AKUMS"
+  },
+  "NSE_EQ|INE0BV301023": {
+    "UpperLimit": 3.6016057449114776,
+    "LowerLimit": 4.02798402050265,
+    "Symbol": "MAPMYINDIA"
+  },
+  "NSE_EQ|INE0BY001018": {
+    "UpperLimit": 3.834383910524261,
+    "LowerLimit": 4.564179490067509,
+    "Symbol": "JUBLINGREA"
+  },
+  "NSE_EQ|INE0DD101019": {
+    "UpperLimit": 3.914095061856132,
+    "LowerLimit": 9.388168215076657,
+    "Symbol": "RAILTEL"
+  },
+  "NSE_EQ|INE0DK501011": {
+    "UpperLimit": 9.61475751771645,
+    "LowerLimit": 4.029287673170042,
+    "Symbol": "PPLPHARMA"
+  },
+  "NSE_EQ|INE0DYJ01015": {
+    "UpperLimit": 5.458855358284696,
+    "LowerLimit": 6.186688673837181,
+    "Symbol": "SYRMA"
+  },
+  "NSE_EQ|INE0FS801015": {
+    "UpperLimit": 2.4302239791555555,
+    "LowerLimit": 2.3912725894569262,
+    "Symbol": "MSUMI"
+  },
+  "NSE_EQ|INE0I7C01011": {
+    "UpperLimit": 3.0597050077902432,
+    "LowerLimit": 3.554120894036303,
+    "Symbol": "LATENTVIEW"
+  },
+  "NSE_EQ|INE0IX101010": {
+    "UpperLimit": 4.709435474609983,
+    "LowerLimit": 7.80782572871125,
+    "Symbol": "DATAPATTNS"
+  },
+  "NSE_EQ|INE0J1Y01017": {
+    "UpperLimit": 1.3729911973124562,
+    "LowerLimit": 3.059300976863076,
+    "Symbol": "LICI"
+  },
+  "NSE_EQ|INE0J5401028": {
+    "UpperLimit": 5.951480501285195,
+    "LowerLimit": 2.93221371316775,
+    "Symbol": "HONASA"
+  },
+  "NSE_EQ|INE0LMW01024": {
+    "UpperLimit": 5.862449117395297,
+    "LowerLimit": 2.165803508074352,
+    "Symbol": "CELLO"
+  },
+  "NSE_EQ|INE0NNS01018": {
+    "UpperLimit": 3.2801518758792367,
+    "LowerLimit": 3.3953811536165244,
+    "Symbol": "NSLNISP"
+  },
+  "NSE_EQ|INE0NT901020": {
+    "UpperLimit": 4.233514506439368,
+    "LowerLimit": 4.518332339160782,
+    "Symbol": "NETWEB"
+  },
+  "NSE_EQ|INE100A01010": {
+    "UpperLimit": 4.60797537057571,
+    "LowerLimit": 2.6144691423998236,
+    "Symbol": "ATUL"
+  },
+  "NSE_EQ|INE101D01020": {
+    "UpperLimit": 3.275484475034015,
+    "LowerLimit": 3.6008927555277817,
+    "Symbol": "GRANULES"
+  },
+  "NSE_EQ|INE102D01028": {
+    "UpperLimit": 3.330470336305026,
+    "LowerLimit": 2.5569256510568454,
+    "Symbol": "GODREJCP"
+  },
+  "NSE_EQ|INE103A01014": {
+    "UpperLimit": 6.48729808457094,
+    "LowerLimit": 4.235176968590342,
+    "Symbol": "MRPL"
+  },
+  "NSE_EQ|INE109A01011": {
+    "UpperLimit": 4.563775822713768,
+    "LowerLimit": 4.161563640042747,
+    "Symbol": "SCI"
+  },
+  "NSE_EQ|INE111A01025": {
+    "UpperLimit": 4.5173956419693795,
+    "LowerLimit": 3.689351899373714,
+    "Symbol": "CONCOR"
+  },
+  "NSE_EQ|INE112L01020": {
+    "UpperLimit": 3.2108718110268364,
+    "LowerLimit": 2.5356334560116345,
+    "Symbol": "METROPOLIS"
+  },
+  "NSE_EQ|INE113A01013": {
+    "UpperLimit": 4.05424964851688,
+    "LowerLimit": 3.700953984759882,
+    "Symbol": "GNFC"
+  },
+  "NSE_EQ|INE114A01011": {
+    "UpperLimit": 3.3404538252867133,
+    "LowerLimit": 4.142109105537744,
+    "Symbol": "SAIL"
+  },
+  "NSE_EQ|INE115A01026": {
+    "UpperLimit": 2.638226029461934,
+    "LowerLimit": 2.6642475058672246,
+    "Symbol": "LICHSGFIN"
+  },
+  "NSE_EQ|INE117A01022": {
+    "UpperLimit": 3.0085623561359998,
+    "LowerLimit": 4.873210375107736,
+    "Symbol": "ABB"
+  },
+  "NSE_EQ|INE118A01012": {
+    "UpperLimit": 3.8344759210447776,
+    "LowerLimit": 3.585170266349748,
+    "Symbol": "BAJAJHLDNG"
+  },
+  "NSE_EQ|INE118D01016": {
+    "UpperLimit": 4.29828751342243,
+    "LowerLimit": 2.7460683691321144,
+    "Symbol": "NUVOCO"
+  },
+  "NSE_EQ|INE118H01025": {
+    "UpperLimit": 4.911818237783596,
+    "LowerLimit": 5.38585256079187,
+    "Symbol": "BSE"
+  },
+  "NSE_EQ|INE119A01028": {
+    "UpperLimit": 4.720193530082238,
+    "LowerLimit": 2.558540419563669,
+    "Symbol": "BALRAMCHIN"
+  },
+  "NSE_EQ|INE120A01034": {
+    "UpperLimit": 2.9430315706726957,
+    "LowerLimit": 7.547792648975354,
+    "Symbol": "CARBORUNIV"
+  },
+  "NSE_EQ|INE121A01024": {
+    "UpperLimit": 2.8581241743181875,
+    "LowerLimit": 3.4603574679857214,
+    "Symbol": "CHOLAFIN"
+  },
+  "NSE_EQ|INE121E01018": {
+    "UpperLimit": 3.2776694973769844,
+    "LowerLimit": 5.270463455144789,
+    "Symbol": "JSWENERGY"
+  },
+  "NSE_EQ|INE121J01017": {
+    "UpperLimit": 5.089457773792068,
+    "LowerLimit": 3.81079769630405,
+    "Symbol": "INDUSTOWER"
+  },
+  "NSE_EQ|INE123F01029": {
+    "UpperLimit": 8.57327829832826,
+    "LowerLimit": 3.3860993974407365,
+    "Symbol": "MMTC"
+  },
+  "NSE_EQ|INE123W01016": {
+    "UpperLimit": 2.796199823368461,
+    "LowerLimit": 6.351523328099234,
+    "Symbol": "SBILIFE"
+  },
+  "NSE_EQ|INE126A01031": {
+    "UpperLimit": 3.5163387464830587,
+    "LowerLimit": 2.5312249053933806,
+    "Symbol": "EIDPARRY"
+  },
+  "NSE_EQ|INE127D01025": {
+    "UpperLimit": 3.2122201991181,
+    "LowerLimit": 2.5021096447372835,
+    "Symbol": "HDFCAMC"
+  },
+  "NSE_EQ|INE128S01021": {
+    "UpperLimit": 4.082638503669614,
+    "LowerLimit": 3.7723365426775683,
+    "Symbol": "FIVESTAR"
+  },
+  "NSE_EQ|INE128X01021": {
+    "UpperLimit": 6.3173868326374825,
+    "LowerLimit": 4.584658888743926,
+    "Symbol": "ACI"
+  },
+  "NSE_EQ|INE129A01019": {
+    "UpperLimit": 2.7403635382363976,
+    "LowerLimit": 2.0778935388313764,
+    "Symbol": "GAIL"
+  },
+  "NSE_EQ|INE131A01031": {
+    "UpperLimit": 3.725282758752863,
+    "LowerLimit": 3.6198978587272954,
+    "Symbol": "GMDCLTD"
+  },
+  "NSE_EQ|INE134E01011": {
+    "UpperLimit": 3.3455044484047134,
+    "LowerLimit": 4.046277956448407,
+    "Symbol": "PFC"
+  },
+  "NSE_EQ|INE136B01020": {
+    "UpperLimit": 3.1321523650320544,
+    "LowerLimit": 5.627841293993961,
+    "Symbol": "CYIENT"
+  },
+  "NSE_EQ|INE138Y01010": {
+    "UpperLimit": 6.036179998889033,
+    "LowerLimit": 4.3778756901636156,
+    "Symbol": "KFINTECH"
+  },
+  "NSE_EQ|INE139A01034": {
+    "UpperLimit": 2.5683436388565406,
+    "LowerLimit": 5.583963315675834,
+    "Symbol": "NATIONALUM"
+  },
+  "NSE_EQ|INE140A01024": {
+    "UpperLimit": 3.6172185584169414,
+    "LowerLimit": 3.799962933550629,
+    "Symbol": "PEL"
+  },
+  "NSE_EQ|INE142M01025": {
+    "UpperLimit": 3.76780033194051,
+    "LowerLimit": 2.644942344013639,
+    "Symbol": "TATATECH"
+  },
+  "NSE_EQ|INE146L01010": {
+    "UpperLimit": 8.05036339879069,
+    "LowerLimit": 4.447478670714521,
+    "Symbol": "KIRLOSENG"
+  },
+  "NSE_EQ|INE148I01020": {
+    "UpperLimit": 3.6902746117767835,
+    "LowerLimit": 4.412011938911676,
+    "Symbol": "SAMMAANCAP"
+  },
+  "NSE_EQ|INE148O01028": {
+    "UpperLimit": 3.440180559984444,
+    "LowerLimit": 3.82180117169627,
+    "Symbol": "DELHIVERY"
+  },
+  "NSE_EQ|INE149A01033": {
+    "UpperLimit": 4.466394917907559,
+    "LowerLimit": 2.8877091307284486,
+    "Symbol": "CHOLAHLDNG"
+  },
+  "NSE_EQ|INE150B01039": {
+    "UpperLimit": 6.6383076149764335,
+    "LowerLimit": 2.854444514379053,
+    "Symbol": "ALKYLAMINE"
+  },
+  "NSE_EQ|INE151A01013": {
+    "UpperLimit": 2.845215196474398,
+    "LowerLimit": 2.6592878807231966,
+    "Symbol": "TATACOMM"
+  },
+  "NSE_EQ|INE152A01029": {
+    "UpperLimit": 4.661870053960178,
+    "LowerLimit": 3.320080988015937,
+    "Symbol": "THERMAX"
+  },
+  "NSE_EQ|INE152M01016": {
+    "UpperLimit": 7.233696150488015,
+    "LowerLimit": 3.9382193433831736,
+    "Symbol": "TRITURBINE"
+  },
+  "NSE_EQ|INE153T01027": {
+    "UpperLimit": 5.582300156385225,
+    "LowerLimit": 5.5915588020035685,
+    "Symbol": "BLS"
+  },
+  "NSE_EQ|INE154A01025": {
+    "UpperLimit": 3.3777042080038675,
+    "LowerLimit": 2.4367884048392767,
+    "Symbol": "ITC"
+  },
+  "NSE_EQ|INE155A01022": {
+    "UpperLimit": 3.009342206859107,
+    "LowerLimit": 2.4569733696333107,
+    "Symbol": "TATAMOTORS"
+  },
+  "NSE_EQ|INE158A01026": {
+    "UpperLimit": 3.8872520402229442,
+    "LowerLimit": 2.4627218546923553,
+    "Symbol": "HEROMOTOCO"
+  },
+  "NSE_EQ|INE159A01016": {
+    "UpperLimit": 10.474773516529948,
+    "LowerLimit": 4.2213168940321735,
+    "Symbol": "GLAXO"
+  },
+  "NSE_EQ|INE160A01022": {
+    "UpperLimit": 2.626267252672302,
+    "LowerLimit": 2.516079796230932,
+    "Symbol": "PNB"
+  },
+  "NSE_EQ|INE168A01041": {
+    "UpperLimit": 5.743654078366907,
+    "LowerLimit": 3.6601397843780066,
+    "Symbol": "J\u0026KBANK"
+  },
+  "NSE_EQ|INE168P01015": {
+    "UpperLimit": 4.756976666489013,
+    "LowerLimit": 4.663038138525239,
+    "Symbol": "EMCURE"
+  },
+  "NSE_EQ|INE169A01031": {
+    "UpperLimit": 2.8668950134846267,
+    "LowerLimit": 3.129458653201356,
+    "Symbol": "COROMANDEL"
+  },
+  "NSE_EQ|INE171A01029": {
+    "UpperLimit": 2.4310622460426945,
+    "LowerLimit": 2.301557842807049,
+    "Symbol": "FEDERALBNK"
+  },
+  "NSE_EQ|INE171Z01026": {
+    "UpperLimit": 5.089613207735817,
+    "LowerLimit": 7.234053271588373,
+    "Symbol": "BDL"
+  },
+  "NSE_EQ|INE172A01027": {
+    "UpperLimit": 4.740145630884055,
+    "LowerLimit": 4.395254733431163,
+    "Symbol": "CASTROLIND"
+  },
+  "NSE_EQ|INE176A01028": {
+    "UpperLimit": 3.825688731779663,
+    "LowerLimit": 2.3947675537336264,
+    "Symbol": "BATAINDIA"
+  },
+  "NSE_EQ|INE176B01034": {
+    "UpperLimit": 3.6324602131612065,
+    "LowerLimit": 2.7715633671439863,
+    "Symbol": "HAVELLS"
+  },
+  "NSE_EQ|INE177H01039": {
+    "UpperLimit": 5.131352698284514,
+    "LowerLimit": 3.065540486472205,
+    "Symbol": "GPIL"
+  },
+  "NSE_EQ|INE178A01016": {
+    "UpperLimit": 7.621677686572879,
+    "LowerLimit": 4.479758027721269,
+    "Symbol": "CHENNPETRO"
+  },
+  "NSE_EQ|INE179A01014": {
+    "UpperLimit": 2.0805429858952977,
+    "LowerLimit": 3.3905135234432517,
+    "Symbol": "PGHH"
+  },
+  "NSE_EQ|INE180A01020": {
+    "UpperLimit": 3.1572261826247416,
+    "LowerLimit": 5.625830380257133,
+    "Symbol": "MFSL"
+  },
+  "NSE_EQ|INE180C01042": {
+    "UpperLimit": 8.525938538481071,
+    "LowerLimit": 20.361160141745607,
+    "Symbol": "CGCL"
+  },
+  "NSE_EQ|INE182A01018": {
+    "UpperLimit": 5.232136006078333,
+    "LowerLimit": 2.922330790094121,
+    "Symbol": "PFIZER"
+  },
+  "NSE_EQ|INE183A01024": {
+    "UpperLimit": 4.1583992392807145,
+    "LowerLimit": 5.666136557859651,
+    "Symbol": "FINPIPE"
+  },
+  "NSE_EQ|INE188A01015": {
+    "UpperLimit": 4.007869312208608,
+    "LowerLimit": 5.65355557045615,
+    "Symbol": "FACT"
+  },
+  "NSE_EQ|INE191B01025": {
+    "UpperLimit": 3.7131758132177044,
+    "LowerLimit": 6.3738615073988925,
+    "Symbol": "WELCORP"
+  },
+  "NSE_EQ|INE191H01014": {
+    "UpperLimit": 3.536171114460905,
+    "LowerLimit": 3.480743236257191,
+    "Symbol": "PVRINOX"
+  },
+  "NSE_EQ|INE192A01025": {
+    "UpperLimit": 2.9167679388149876,
+    "LowerLimit": 2.2219366776575433,
+    "Symbol": "TATACONSUM"
+  },
+  "NSE_EQ|INE192B01031": {
+    "UpperLimit": 5.286092662240943,
+    "LowerLimit": 4.663899993437395,
+    "Symbol": "WELSPUNLIV"
+  },
+  "NSE_EQ|INE192R01011": {
+    "UpperLimit": 3.964954772122158,
+    "LowerLimit": 2.291159334937664,
+    "Symbol": "DMART"
+  },
+  "NSE_EQ|INE195A01028": {
+    "UpperLimit": 3.599720670847542,
+    "LowerLimit": 6.93419137504624,
+    "Symbol": "SUPREMEIND"
+  },
+  "NSE_EQ|INE195J01029": {
+    "UpperLimit": 4.116134181225155,
+    "LowerLimit": 4.70554830310773,
+    "Symbol": "PNCINFRA"
+  },
+  "NSE_EQ|INE196A01026": {
+    "UpperLimit": 3.891337911941977,
+    "LowerLimit": 2.2753374969983766,
+    "Symbol": "MARICO"
+  },
+  "NSE_EQ|INE200A01026": {
+    "UpperLimit": 5.224531019049517,
+    "LowerLimit": 3.9005280290205664,
+    "Symbol": "GVT\u0026D"
+  },
+  "NSE_EQ|INE200M01039": {
+    "UpperLimit": 5.539456264419969,
+    "LowerLimit": 3.1658674013577053,
+    "Symbol": "VBL"
+  },
+  "NSE_EQ|INE201P01022": {
+    "UpperLimit": 3.902240810440793,
+    "LowerLimit": 5.508316814910655,
+    "Symbol": "GRINFRA"
+  },
+  "NSE_EQ|INE202E01016": {
+    "UpperLimit": 4.620616079613731,
+    "LowerLimit": 5.06652050245407,
+    "Symbol": "IREDA"
+  },
+  "NSE_EQ|INE203A01020": {
+    "UpperLimit": 4.632696841306649,
+    "LowerLimit": 4.530232983767026,
+    "Symbol": "ASTRAZEN"
+  },
+  "NSE_EQ|INE203G01027": {
+    "UpperLimit": 3.4117101957306604,
+    "LowerLimit": 3.599449742591747,
+    "Symbol": "IGL"
+  },
+  "NSE_EQ|INE205A01025": {
+    "UpperLimit": 3.094514359485733,
+    "LowerLimit": 3.295169735906515,
+    "Symbol": "VEDL"
+  },
+  "NSE_EQ|INE205B01031": {
+    "UpperLimit": 4.871810514402208,
+    "LowerLimit": 6.83004664390283,
+    "Symbol": "ELECON"
+  },
+  "NSE_EQ|INE205C01021": {
+    "UpperLimit": 9.703793731953601,
+    "LowerLimit": 6.47628406223179,
+    "Symbol": "POLYMED"
+  },
+  "NSE_EQ|INE208A01029": {
+    "UpperLimit": 3.1257472772720423,
+    "LowerLimit": 4.177357751339987,
+    "Symbol": "ASHOKLEY"
+  },
+  "NSE_EQ|INE208C01025": {
+    "UpperLimit": 5.730771895533401,
+    "LowerLimit": 7.3182577572383,
+    "Symbol": "AEGISLOG"
+  },
+  "NSE_EQ|INE209L01016": {
+    "UpperLimit": 6.862063314069651,
+    "LowerLimit": 10.078951562948413,
+    "Symbol": "JWL"
+  },
+  "NSE_EQ|INE211B01039": {
+    "UpperLimit": 4.3460026215729295,
+    "LowerLimit": 4.068419845203822,
+    "Symbol": "PHOENIXLTD"
+  },
+  "NSE_EQ|INE212H01026": {
+    "UpperLimit": 1.7806247747841817,
+    "LowerLimit": 2.244675907847597,
+    "Symbol": "AIAENG"
+  },
+  "NSE_EQ|INE213A01029": {
+    "UpperLimit": 3.060390957729067,
+    "LowerLimit": 2.312381807526645,
+    "Symbol": "ONGC"
+  },
+  "NSE_EQ|INE214T01019": {
+    "UpperLimit": 2.502317546905091,
+    "LowerLimit": 2.710807751965083,
+    "Symbol": "LTIM"
+  },
+  "NSE_EQ|INE216A01030": {
+    "UpperLimit": 3.173704414745411,
+    "LowerLimit": 2.520557703101904,
+    "Symbol": "BRITANNIA"
+  },
+  "NSE_EQ|INE216P01012": {
+    "UpperLimit": 3.442496474805811,
+    "LowerLimit": 2.4748263382298386,
+    "Symbol": "AAVAS"
+  },
+  "NSE_EQ|INE217B01036": {
+    "UpperLimit": 3.963943759109877,
+    "LowerLimit": 1.7879264562239647,
+    "Symbol": "KAJARIACER"
+  },
+  "NSE_EQ|INE220B01022": {
+    "UpperLimit": 3.51917812654027,
+    "LowerLimit": 4.844003803980215,
+    "Symbol": "KPIL"
+  },
+  "NSE_EQ|INE220G01021": {
+    "UpperLimit": 3.5785117312651815,
+    "LowerLimit": 4.051045606628359,
+    "Symbol": "JSL"
+  },
+  "NSE_EQ|INE226A01021": {
+    "UpperLimit": 4.545439218446638,
+    "LowerLimit": 7.4535363803236026,
+    "Symbol": "VOLTAS"
+  },
+  "NSE_EQ|INE227W01023": {
+    "UpperLimit": 2.626202364651851,
+    "LowerLimit": 3.942430670136988,
+    "Symbol": "CLEAN"
+  },
+  "NSE_EQ|INE228A01035": {
+    "UpperLimit": 3.715443029620815,
+    "LowerLimit": 4.629967621579757,
+    "Symbol": "USHAMART"
+  },
+  "NSE_EQ|INE230A01023": {
+    "UpperLimit": 3.7943508016541028,
+    "LowerLimit": 2.8742699643373317,
+    "Symbol": "EIHOTEL"
+  },
+  "NSE_EQ|INE232I01014": {
+    "UpperLimit": 5.642172117762582,
+    "LowerLimit": 3.7052013356757665,
+    "Symbol": "SPARC"
+  },
+  "NSE_EQ|INE233A01035": {
+    "UpperLimit": 5.772733243302482,
+    "LowerLimit": 4.247983872227439,
+    "Symbol": "GODREJIND"
+  },
+  "NSE_EQ|INE233B01017": {
+    "UpperLimit": 5.534467736285315,
+    "LowerLimit": 2.474044565474023,
+    "Symbol": "BLUEDART"
+  },
+  "NSE_EQ|INE235A01022": {
+    "UpperLimit": 5.589924366612116,
+    "LowerLimit": 4.24229697276469,
+    "Symbol": "FINCABLES"
+  },
+  "NSE_EQ|INE237A01028": {
+    "UpperLimit": 2.341481844756016,
+    "LowerLimit": 2.0010050903390653,
+    "Symbol": "KOTAKBANK"
+  },
+  "NSE_EQ|INE238A01034": {
+    "UpperLimit": 1.9889146779582372,
+    "LowerLimit": 1.6861265461870039,
+    "Symbol": "AXISBANK"
+  },
+  "NSE_EQ|INE239A01024": {
+    "UpperLimit": 3.8451360204359335,
+    "LowerLimit": 2.8177024307783722,
+    "Symbol": "NESTLEIND"
+  },
+  "NSE_EQ|INE242A01010": {
+    "UpperLimit": 2.3630006481585846,
+    "LowerLimit": 2.4981019165241456,
+    "Symbol": "IOC"
+  },
+  "NSE_EQ|INE242C01024": {
+    "UpperLimit": 5.471392722485938,
+    "LowerLimit": 7.169855150335595,
+    "Symbol": "ANANTRAJ"
+  },
+  "NSE_EQ|INE245A01021": {
+    "UpperLimit": 2.339855755518907,
+    "LowerLimit": 3.0599851718739126,
+    "Symbol": "TATAPOWER"
+  },
+  "NSE_EQ|INE246F01010": {
+    "UpperLimit": 3.2341783675536493,
+    "LowerLimit": 4.39767503043765,
+    "Symbol": "GSPL"
+  },
+  "NSE_EQ|INE248A01017": {
+    "UpperLimit": 8.391899280837386,
+    "LowerLimit": 8.125860835343621,
+    "Symbol": "ITI"
+  },
+  "NSE_EQ|INE249Z01020": {
+    "UpperLimit": 6.262627790221415,
+    "LowerLimit": 6.401322868402959,
+    "Symbol": "MAZDOCK"
+  },
+  "NSE_EQ|INE256A01028": {
+    "UpperLimit": 3.5918729656390407,
+    "LowerLimit": 3.982547929408375,
+    "Symbol": "ZEEL"
+  },
+  "NSE_EQ|INE256C01024": {
+    "UpperLimit": 4.029602387056676,
+    "LowerLimit": 10.124028608673216,
+    "Symbol": "TRIVENI"
+  },
+  "NSE_EQ|INE257A01026": {
+    "UpperLimit": 3.2886303581770764,
+    "LowerLimit": 5.439487838450197,
+    "Symbol": "BHEL"
+  },
+  "NSE_EQ|INE258A01016": {
+    "UpperLimit": 4.398044794813216,
+    "LowerLimit": 5.875026001702249,
+    "Symbol": "BEML"
+  },
+  "NSE_EQ|INE258G01013": {
+    "UpperLimit": 4.235868928360091,
+    "LowerLimit": 3.4242803857521715,
+    "Symbol": "SUMICHEM"
+  },
+  "NSE_EQ|INE259A01022": {
+    "UpperLimit": 2.8417888388994648,
+    "LowerLimit": 2.1857429588752835,
+    "Symbol": "COLPAL"
+  },
+  "NSE_EQ|INE260B01028": {
+    "UpperLimit": 10.048641540893607,
+    "LowerLimit": 9.411490223261001,
+    "Symbol": "GODFRYPHLP"
+  },
+  "NSE_EQ|INE260D01016": {
+    "UpperLimit": 5.404374652207659,
+    "LowerLimit": 4.8963927486620955,
+    "Symbol": "OLECTRA"
+  },
+  "NSE_EQ|INE262H01021": {
+    "UpperLimit": 3.706251674282094,
+    "LowerLimit": 2.6764906953061054,
+    "Symbol": "PERSISTENT"
+  },
+  "NSE_EQ|INE263A01024": {
+    "UpperLimit": 2.9096798722578163,
+    "LowerLimit": 6.933100331446012,
+    "Symbol": "BEL"
+  },
+  "NSE_EQ|INE267A01025": {
+    "UpperLimit": 3.7175081312719436,
+    "LowerLimit": 2.8917370151280117,
+    "Symbol": "HINDZINC"
+  },
+  "NSE_EQ|INE269A01021": {
+    "UpperLimit": 4.763187923007442,
+    "LowerLimit": 3.0750440922345437,
+    "Symbol": "SONATSOFTW"
+  },
+  "NSE_EQ|INE270A01029": {
+    "UpperLimit": 5.036299093646284,
+    "LowerLimit": 3.187623803075051,
+    "Symbol": "ALOKINDS"
+  },
+  "NSE_EQ|INE271B01025": {
+    "UpperLimit": 4.535177130140914,
+    "LowerLimit": 3.363902344687644,
+    "Symbol": "MAHSEAMLES"
+  },
+  "NSE_EQ|INE271C01023": {
+    "UpperLimit": 2.425211309791947,
+    "LowerLimit": 3.107504736667368,
+    "Symbol": "DLF"
+  },
+  "NSE_EQ|INE274F01020": {
+    "UpperLimit": 4.651266376587546,
+    "LowerLimit": 2.999906563947384,
+    "Symbol": "WESTLIFE"
+  },
+  "NSE_EQ|INE274J01014": {
+    "UpperLimit": 2.7990794752449584,
+    "LowerLimit": 3.5361181334869682,
+    "Symbol": "OIL"
+  },
+  "NSE_EQ|INE278Y01022": {
+    "UpperLimit": 6.083341454461136,
+    "LowerLimit": 4.088451485879781,
+    "Symbol": "CAMPUS"
+  },
+  "NSE_EQ|INE280A01028": {
+    "UpperLimit": 3.23466316006834,
+    "LowerLimit": 2.73692936323848,
+    "Symbol": "TITAN"
+  },
+  "NSE_EQ|INE281B01032": {
+    "UpperLimit": 4.619294996989532,
+    "LowerLimit": 6.656671585940449,
+    "Symbol": "LLOYDSME"
+  },
+  "NSE_EQ|INE285A01027": {
+    "UpperLimit": 4.745163238863092,
+    "LowerLimit": 4.863853529909672,
+    "Symbol": "ELGIEQUIP"
+  },
+  "NSE_EQ|INE285K01026": {
+    "UpperLimit": 6.31477881621998,
+    "LowerLimit": 4.738397722506005,
+    "Symbol": "TECHNOE"
+  },
+  "NSE_EQ|INE288B01029": {
+    "UpperLimit": 3.602222407441601,
+    "LowerLimit": 4.121799954190625,
+    "Symbol": "DEEPAKNTR"
+  },
+  "NSE_EQ|INE292B01021": {
+    "UpperLimit": 8.116435196344224,
+    "LowerLimit": 6.051765797850808,
+    "Symbol": "HBLENGINE"
+  },
+  "NSE_EQ|INE296A01024": {
+    "UpperLimit": 2.922101595595907,
+    "LowerLimit": 2.5821979549261185,
+    "Symbol": "BAJFINANCE"
+  },
+  "NSE_EQ|INE298A01020": {
+    "UpperLimit": 2.5700162605945414,
+    "LowerLimit": 4.34036018176961,
+    "Symbol": "CUMMINSIND"
+  },
+  "NSE_EQ|INE298J01013": {
+    "UpperLimit": 4.446607206998486,
+    "LowerLimit": 3.4554713587542385,
+    "Symbol": "NAM-INDIA"
+  },
+  "NSE_EQ|INE299U01018": {
+    "UpperLimit": 2.9621398669535406,
+    "LowerLimit": 2.4822546247078723,
+    "Symbol": "CROMPTON"
+  },
+  "NSE_EQ|INE301A01014": {
+    "UpperLimit": 5.286312965431724,
+    "LowerLimit": 3.353975595964357,
+    "Symbol": "RAYMOND"
+  },
+  "NSE_EQ|INE302A01020": {
+    "UpperLimit": 2.693323261544938,
+    "LowerLimit": 2.8923403690941627,
+    "Symbol": "EXIDEIND"
+  },
+  "NSE_EQ|INE303R01014": {
+    "UpperLimit": 4.939511559089145,
+    "LowerLimit": 6.506336660964356,
+    "Symbol": "KALYANKJIL"
+  },
+  "NSE_EQ|INE306R01017": {
+    "UpperLimit": 2.7978884074444297,
+    "LowerLimit": 3.798549131780336,
+    "Symbol": "INTELLECT"
+  },
+  "NSE_EQ|INE317I01021": {
+    "UpperLimit": 3.260202266023501,
+    "LowerLimit": 2.6735928037020136,
+    "Symbol": "METROBRAND"
+  },
+  "NSE_EQ|INE318A01026": {
+    "UpperLimit": 2.7732793800932543,
+    "LowerLimit": 1.6344190794083615,
+    "Symbol": "PIDILITIND"
+  },
+  "NSE_EQ|INE320J01015": {
+    "UpperLimit": 3.885465430827385,
+    "LowerLimit": 4.455990443093555,
+    "Symbol": "RITES"
+  },
+  "NSE_EQ|INE321T01012": {
+    "UpperLimit": 4.646886927771237,
+    "LowerLimit": 4.134444565243096,
+    "Symbol": "DOMS"
+  },
+  "NSE_EQ|INE322A01010": {
+    "UpperLimit": 5.708999104833923,
+    "LowerLimit": 3.0414058932799737,
+    "Symbol": "GILLETTE"
+  },
+  "NSE_EQ|INE323A01026": {
+    "UpperLimit": 1.7646092608371517,
+    "LowerLimit": 1.8819483704260844,
+    "Symbol": "BOSCHLTD"
+  },
+  "NSE_EQ|INE324A01032": {
+    "UpperLimit": 3.052323390867474,
+    "LowerLimit": 3.380137033825201,
+    "Symbol": "JINDALSAW"
+  },
+  "NSE_EQ|INE325A01013": {
+    "UpperLimit": 3.487409452751514,
+    "LowerLimit": 5.532256848864476,
+    "Symbol": "TIMKEN"
+  },
+  "NSE_EQ|INE326A01037": {
+    "UpperLimit": 2.3768423528828633,
+    "LowerLimit": 3.021063986082687,
+    "Symbol": "LUPIN"
+  },
+  "NSE_EQ|INE331A01037": {
+    "UpperLimit": 2.1401280714650524,
+    "LowerLimit": 2.906415736573649,
+    "Symbol": "RAMCOCEM"
+  },
+  "NSE_EQ|INE335Y01020": {
+    "UpperLimit": 3.160729203949606,
+    "LowerLimit": 3.232188836636626,
+    "Symbol": "IRCTC"
+  },
+  "NSE_EQ|INE338H01029": {
+    "UpperLimit": 9.744064228094246,
+    "LowerLimit": 6.919977954965813,
+    "Symbol": "CONCORDBIO"
+  },
+  "NSE_EQ|INE338I01027": {
+    "UpperLimit": 4.184999154915252,
+    "LowerLimit": 4.101466701537699,
+    "Symbol": "MOTILALOFS"
+  },
+  "NSE_EQ|INE340A01012": {
+    "UpperLimit": 3.42106476246776,
+    "LowerLimit": 2.642007016577724,
+    "Symbol": "BIRLACORPN"
+  },
+  "NSE_EQ|INE342J01019": {
+    "UpperLimit": 4.248711813808046,
+    "LowerLimit": 4.0917928674004616,
+    "Symbol": "ZFCVINDIA"
+  },
+  "NSE_EQ|INE343B01030": {
+    "UpperLimit": 7.220123295391179,
+    "LowerLimit": 2.803974414195292,
+    "Symbol": "RAJESHEXPO"
+  },
+  "NSE_EQ|INE343G01021": {
+    "UpperLimit": 6.93175743684474,
+    "LowerLimit": 4.847730098758412,
+    "Symbol": "BHARTIHEXA"
+  },
+  "NSE_EQ|INE343H01029": {
+    "UpperLimit": 2.529203377583078,
+    "LowerLimit": 5.210240789443888,
+    "Symbol": "SOLARINDS"
+  },
+  "NSE_EQ|INE347G01014": {
+    "UpperLimit": 3.226216649776557,
+    "LowerLimit": 3.6513743564193337,
+    "Symbol": "PETRONET"
+  },
+  "NSE_EQ|INE348B01021": {
+    "UpperLimit": 4.33697286873873,
+    "LowerLimit": 3.5708281303894513,
+    "Symbol": "CENTURYPLY"
+  },
+  "NSE_EQ|INE351F01018": {
+    "UpperLimit": 5.579692827183909,
+    "LowerLimit": 4.503719230880113,
+    "Symbol": "JPPOWER"
+  },
+  "NSE_EQ|INE356A01018": {
+    "UpperLimit": 6.617503159771306,
+    "LowerLimit": 2.787054972914474,
+    "Symbol": "MPHASIS"
+  },
+  "NSE_EQ|INE358A01014": {
+    "UpperLimit": 2.573060086831001,
+    "LowerLimit": 2.1718908655895164,
+    "Symbol": "ABBOTINDIA"
+  },
+  "NSE_EQ|INE361B01024": {
+    "UpperLimit": 2.8687535865415508,
+    "LowerLimit": 2.3331137413882197,
+    "Symbol": "DIVISLAB"
+  },
+  "NSE_EQ|INE364U01010": {
+    "UpperLimit": 4.3447128565557565,
+    "LowerLimit": 3.7655605742814022,
+    "Symbol": "ADANIGREEN"
+  },
+  "NSE_EQ|INE371A01025": {
+    "UpperLimit": 4.180650231206381,
+    "LowerLimit": 6.926702586628617,
+    "Symbol": "GRAPHITE"
+  },
+  "NSE_EQ|INE371P01015": {
+    "UpperLimit": 5.413136882198531,
+    "LowerLimit": 6.511794195223376,
+    "Symbol": "AMBER"
+  },
+  "NSE_EQ|INE372A01015": {
+    "UpperLimit": 5.2102979352590895,
+    "LowerLimit": 7.805047917562692,
+    "Symbol": "APARINDS"
+  },
+  "NSE_EQ|INE373A01013": {
+    "UpperLimit": 3.216419066499989,
+    "LowerLimit": 3.935420569317606,
+    "Symbol": "BASF"
+  },
+  "NSE_EQ|INE376G01013": {
+    "UpperLimit": 3.16103487853749,
+    "LowerLimit": 3.0032319462548767,
+    "Symbol": "BIOCON"
+  },
+  "NSE_EQ|INE382Z01011": {
+    "UpperLimit": 6.691120346339511,
+    "LowerLimit": 5.096692323684658,
+    "Symbol": "GRSE"
+  },
+  "NSE_EQ|INE383A01012": {
+    "UpperLimit": 6.093819276676619,
+    "LowerLimit": 5.6684146586488495,
+    "Symbol": "INDIACEM"
+  },
+  "NSE_EQ|INE387A01021": {
+    "UpperLimit": 4.12941791658961,
+    "LowerLimit": 2.1988321597682985,
+    "Symbol": "SUNDRMFAST"
+  },
+  "NSE_EQ|INE388Y01029": {
+    "UpperLimit": 4.1574614410542265,
+    "LowerLimit": 3.2621977460558282,
+    "Symbol": "NYKAA"
+  },
+  "NSE_EQ|INE389H01022": {
+    "UpperLimit": 4.130303870413797,
+    "LowerLimit": 6.534420929771072,
+    "Symbol": "KEC"
+  },
+  "NSE_EQ|INE395N01027": {
+    "UpperLimit": 4.607425878077703,
+    "LowerLimit": 5.424195062416488,
+    "Symbol": "TVSSCS"
+  },
+  "NSE_EQ|INE397D01024": {
+    "UpperLimit": 1.8018991975457561,
+    "LowerLimit": 2.6307250473365493,
+    "Symbol": "BHARTIARTL"
+  },
+  "NSE_EQ|INE398R01022": {
+    "UpperLimit": 3.1394784760598125,
+    "LowerLimit": 3.332674906435218,
+    "Symbol": "SYNGENE"
+  },
+  "NSE_EQ|INE399G01023": {
+    "UpperLimit": 3.5319800177550444,
+    "LowerLimit": 4.532523257034065,
+    "Symbol": "RKFORGE"
+  },
+  "NSE_EQ|INE399L01023": {
+    "UpperLimit": 4.0989778446612295,
+    "LowerLimit": 3.509899319121667,
+    "Symbol": "ATGL"
+  },
+  "NSE_EQ|INE404A01024": {
+    "UpperLimit": 4.294940838257976,
+    "LowerLimit": 3.5649786949150006,
+    "Symbol": "ABSLAMC"
+  },
+  "NSE_EQ|INE405E01023": {
+    "UpperLimit": 3.8835432501263782,
+    "LowerLimit": 3.8870307816111396,
+    "Symbol": "UNOMINDA"
+  },
+  "NSE_EQ|INE406A01037": {
+    "UpperLimit": 3.3551377837201173,
+    "LowerLimit": 3.9026221106667074,
+    "Symbol": "AUROPHARMA"
+  },
+  "NSE_EQ|INE406M01024": {
+    "UpperLimit": 4.533101006160937,
+    "LowerLimit": 5.469831608686502,
+    "Symbol": "ERIS"
+  },
+  "NSE_EQ|INE410B01037": {
+    "UpperLimit": 3.653124851626112,
+    "LowerLimit": 2.480429669587986,
+    "Symbol": "VINATIORGA"
+  },
+  "NSE_EQ|INE410P01011": {
+    "UpperLimit": 5.4137487844331575,
+    "LowerLimit": 3.8596249229765305,
+    "Symbol": "NH"
+  },
+  "NSE_EQ|INE414G01012": {
+    "UpperLimit": 2.7787500756607133,
+    "LowerLimit": 5.470240350522416,
+    "Symbol": "MUTHOOTFIN"
+  },
+  "NSE_EQ|INE415G01027": {
+    "UpperLimit": 5.129562134778141,
+    "LowerLimit": 8.496873811952389,
+    "Symbol": "RVNL"
+  },
+  "NSE_EQ|INE417T01026": {
+    "UpperLimit": 4.133981200553762,
+    "LowerLimit": 5.823797981212167,
+    "Symbol": "POLICYBZR"
+  },
+  "NSE_EQ|INE419U01012": {
+    "UpperLimit": 3.2369165333727885,
+    "LowerLimit": 3.4659989368189117,
+    "Symbol": "HAPPSTMNDS"
+  },
+  "NSE_EQ|INE421D01022": {
+    "UpperLimit": 3.452177711448878,
+    "LowerLimit": 2.6019198536051715,
+    "Symbol": "CCL"
+  },
+  "NSE_EQ|INE423A01024": {
+    "UpperLimit": 2.9010702670108524,
+    "LowerLimit": 3.6268107421243068,
+    "Symbol": "ADANIENT"
+  },
+  "NSE_EQ|INE423Y01016": {
+    "UpperLimit": 2.970433911532053,
+    "LowerLimit": 3.277879830552069,
+    "Symbol": "SBFC"
+  },
+  "NSE_EQ|INE424H01027": {
+    "UpperLimit": 5.3184820070314975,
+    "LowerLimit": 7.147160827838392,
+    "Symbol": "SUNTV"
+  },
+  "NSE_EQ|INE427F01016": {
+    "UpperLimit": 4.650308722258023,
+    "LowerLimit": 3.5386827537403924,
+    "Symbol": "CHALET"
+  },
+  "NSE_EQ|INE437A01024": {
+    "UpperLimit": 2.3340316914141273,
+    "LowerLimit": 2.895944098394486,
+    "Symbol": "APOLLOHOSP"
+  },
+  "NSE_EQ|INE438A01022": {
+    "UpperLimit": 2.19093538778944,
+    "LowerLimit": 2.2571946002481926,
+    "Symbol": "APOLLOTYRE"
+  },
+  "NSE_EQ|INE439A01020": {
+    "UpperLimit": 4.577825505213219,
+    "LowerLimit": 5.433894516023492,
+    "Symbol": "ASAHIINDIA"
+  },
+  "NSE_EQ|INE450U01017": {
+    "UpperLimit": 4.8267990156023926,
+    "LowerLimit": 4.588680587547045,
+    "Symbol": "ROUTE"
+  },
+  "NSE_EQ|INE455K01017": {
+    "UpperLimit": 3.45828069998603,
+    "LowerLimit": 4.482552319367791,
+    "Symbol": "POLYCAB"
+  },
+  "NSE_EQ|INE457A01014": {
+    "UpperLimit": 6.01906376405293,
+    "LowerLimit": 3.1456846412347397,
+    "Symbol": "MAHABANK"
+  },
+  "NSE_EQ|INE462A01022": {
+    "UpperLimit": 3.849768176693545,
+    "LowerLimit": 3.7682101942778243,
+    "Symbol": "BAYERCROP"
+  },
+  "NSE_EQ|INE463A01038": {
+    "UpperLimit": 2.9553975905725003,
+    "LowerLimit": 2.011892081073207,
+    "Symbol": "BERGEPAINT"
+  },
+  "NSE_EQ|INE463V01026": {
+    "UpperLimit": 3.7897550362451615,
+    "LowerLimit": 3.2783701179391267,
+    "Symbol": "ANANDRATHI"
+  },
+  "NSE_EQ|INE465A01025": {
+    "UpperLimit": 2.855576520197848,
+    "LowerLimit": 4.50942648226667,
+    "Symbol": "BHARATFORG"
+  },
+  "NSE_EQ|INE466L01038": {
+    "UpperLimit": 5.517418438851289,
+    "LowerLimit": 4.827972554446714,
+    "Symbol": "360ONE"
+  },
+  "NSE_EQ|INE467B01029": {
+    "UpperLimit": 3.1243409491500227,
+    "LowerLimit": 1.5414138141772928,
+    "Symbol": "TCS"
+  },
+  "NSE_EQ|INE470A01017": {
+    "UpperLimit": 3.598056894959588,
+    "LowerLimit": 1.9477698794420435,
+    "Symbol": "3MINDIA"
+  },
+  "NSE_EQ|INE470Y01017": {
+    "UpperLimit": 3.538414442770916,
+    "LowerLimit": 4.496202890436443,
+    "Symbol": "NIACL"
+  },
+  "NSE_EQ|INE472A01039": {
+    "UpperLimit": 5.04315406427586,
+    "LowerLimit": 4.453950515912439,
+    "Symbol": "BLUESTARCO"
+  },
+  "NSE_EQ|INE473A01011": {
+    "UpperLimit": 6.481272911303401,
+    "LowerLimit": 4.00441593081414,
+    "Symbol": "LINDEINDIA"
+  },
+  "NSE_EQ|INE474Q01031": {
+    "UpperLimit": 4.22422021928835,
+    "LowerLimit": 2.5004480310782564,
+    "Symbol": "MEDANTA"
+  },
+  "NSE_EQ|INE475E01026": {
+    "UpperLimit": 6.7189826473536005,
+    "LowerLimit": 3.580311162940625,
+    "Symbol": "CAPLIPOINT"
+  },
+  "NSE_EQ|INE476A01022": {
+    "UpperLimit": 2.631765245976143,
+    "LowerLimit": 4.132763772935875,
+    "Symbol": "CANBK"
+  },
+  "NSE_EQ|INE477A01020": {
+    "UpperLimit": 2.639495339198328,
+    "LowerLimit": 4.260613692068317,
+    "Symbol": "CANFINHOME"
+  },
+  "NSE_EQ|INE481G01011": {
+    "UpperLimit": 3.943518567430458,
+    "LowerLimit": 5.584075000312742,
+    "Symbol": "ULTRACEMCO"
+  },
+  "NSE_EQ|INE481N01025": {
+    "UpperLimit": 4.331169857504543,
+    "LowerLimit": 3.948825661397079,
+    "Symbol": "HOMEFIRST"
+  },
+  "NSE_EQ|INE481Y01014": {
+    "UpperLimit": 3.7718388494822648,
+    "LowerLimit": 3.260691822932611,
+    "Symbol": "GICRE"
+  },
+  "NSE_EQ|INE482A01020": {
+    "UpperLimit": 4.910634171958262,
+    "LowerLimit": 2.903312973264939,
+    "Symbol": "CEATLTD"
+  },
+  "NSE_EQ|INE483A01010": {
+    "UpperLimit": 9.048716152377576,
+    "LowerLimit": 3.852648573823958,
+    "Symbol": "CENTRALBK"
+  },
+  "NSE_EQ|INE483C01032": {
+    "UpperLimit": 4.623787940746166,
+    "LowerLimit": 4.919249199715867,
+    "Symbol": "TANLA"
+  },
+  "NSE_EQ|INE484J01027": {
+    "UpperLimit": 2.9945656711704665,
+    "LowerLimit": 3.183437777672675,
+    "Symbol": "GODREJPROP"
+  },
+  "NSE_EQ|INE486A01021": {
+    "UpperLimit": 3.0662075501930492,
+    "LowerLimit": 4.150832541917467,
+    "Symbol": "CESC"
+  },
+  "NSE_EQ|INE488A01050": {
+    "UpperLimit": 5.354506708050585,
+    "LowerLimit": 4.059259283050005,
+    "Symbol": "CHEMPLASTS"
+  },
+  "NSE_EQ|INE491A01021": {
+    "UpperLimit": 4.2809214006676255,
+    "LowerLimit": 3.3875302834788767,
+    "Symbol": "CUB"
+  },
+  "NSE_EQ|INE494B01023": {
+    "UpperLimit": 5.832658912982475,
+    "LowerLimit": 2.419188639700381,
+    "Symbol": "TVSMOTOR"
+  },
+  "NSE_EQ|INE498L01015": {
+    "UpperLimit": 3.225803271104462,
+    "LowerLimit": 2.681288048911642,
+    "Symbol": "LTF"
+  },
+  "NSE_EQ|INE501A01019": {
+    "UpperLimit": 4.480590259736412,
+    "LowerLimit": 6.521565127536697,
+    "Symbol": "DEEPAKFERT"
+  },
+  "NSE_EQ|INE510A01028": {
+    "UpperLimit": 5.910736038086671,
+    "LowerLimit": 4.12730462668548,
+    "Symbol": "ENGINERSIN"
+  },
+  "NSE_EQ|INE511C01022": {
+    "UpperLimit": 2.849271777547925,
+    "LowerLimit": 3.272028718541868,
+    "Symbol": "POONAWALLA"
+  },
+  "NSE_EQ|INE513A01022": {
+    "UpperLimit": 3.213738737686669,
+    "LowerLimit": 3.5926621823631004,
+    "Symbol": "SCHAEFFLER"
+  },
+  "NSE_EQ|INE517B01013": {
+    "UpperLimit": 5.05177572984337,
+    "LowerLimit": 4.120874399958793,
+    "Symbol": "TTML"
+  },
+  "NSE_EQ|INE517F01014": {
+    "UpperLimit": 4.120953289178047,
+    "LowerLimit": 2.63512051981036,
+    "Symbol": "GPPL"
+  },
+  "NSE_EQ|INE520A01027": {
+    "UpperLimit": 5.575341837140547,
+    "LowerLimit": 4.301314800693095,
+    "Symbol": "ZENSARTECH"
+  },
+  "NSE_EQ|INE522D01027": {
+    "UpperLimit": 7.786019745285884,
+    "LowerLimit": 6.0639420007137215,
+    "Symbol": "MANAPPURAM"
+  },
+  "NSE_EQ|INE522F01014": {
+    "UpperLimit": 2.209334381871535,
+    "LowerLimit": 3.424902609224713,
+    "Symbol": "COALINDIA"
+  },
+  "NSE_EQ|INE528G01035": {
+    "UpperLimit": 2.15475546850821,
+    "LowerLimit": 2.8028390677496584,
+    "Symbol": "YESBANK"
+  },
+  "NSE_EQ|INE530B01024": {
+    "UpperLimit": 6.223997831729272,
+    "LowerLimit": 3.945471540686707,
+    "Symbol": "IIFL"
+  },
+  "NSE_EQ|INE531A01024": {
+    "UpperLimit": 2.6833196816860148,
+    "LowerLimit": 1.8036129765378734,
+    "Symbol": "KANSAINER"
+  },
+  "NSE_EQ|INE531E01026": {
+    "UpperLimit": 3.782574505748135,
+    "LowerLimit": 6.613590406234337,
+    "Symbol": "HINDCOPPER"
+  },
+  "NSE_EQ|INE531F01015": {
+    "UpperLimit": 4.892616714349775,
+    "LowerLimit": 5.788008322415689,
+    "Symbol": "NUVAMA"
+  },
+  "NSE_EQ|INE536A01023": {
+    "UpperLimit": 3.312479330086483,
+    "LowerLimit": 4.333215540798612,
+    "Symbol": "GRINDWELL"
+  },
+  "NSE_EQ|INE536H01010": {
+    "UpperLimit": 5.116211814922879,
+    "LowerLimit": 2.981395504833586,
+    "Symbol": "CIEINDIA"
+  },
+  "NSE_EQ|INE540L01014": {
+    "UpperLimit": 1.6789108323440338,
+    "LowerLimit": 2.460183796265898,
+    "Symbol": "ALKEM"
+  },
+  "NSE_EQ|INE545A01024": {
+    "UpperLimit": 4.319462509546154,
+    "LowerLimit": 3.3905568582993877,
+    "Symbol": "HEG"
+  },
+  "NSE_EQ|INE545U01014": {
+    "UpperLimit": 2.511077556007099,
+    "LowerLimit": 3.8020462926336647,
+    "Symbol": "BANDHANBNK"
+  },
+  "NSE_EQ|INE548A01028": {
+    "UpperLimit": 3.362852268485676,
+    "LowerLimit": 4.570027506011807,
+    "Symbol": "HFCL"
+  },
+  "NSE_EQ|INE548C01032": {
+    "UpperLimit": 2.8244962195407366,
+    "LowerLimit": 2.886468682832265,
+    "Symbol": "EMAMILTD"
+  },
+  "NSE_EQ|INE551W01018": {
+    "UpperLimit": 3.5727590763394153,
+    "LowerLimit": 2.7523866823655343,
+    "Symbol": "UJJIVANSFB"
+  },
+  "NSE_EQ|INE562A01011": {
+    "UpperLimit": 2.899249204059257,
+    "LowerLimit": 3.3364353387587733,
+    "Symbol": "INDIANB"
+  },
+  "NSE_EQ|INE565A01014": {
+    "UpperLimit": 9.446214342137456,
+    "LowerLimit": 2.892348101536702,
+    "Symbol": "IOB"
+  },
+  "NSE_EQ|INE571A01038": {
+    "UpperLimit": 3.5254644953662773,
+    "LowerLimit": 3.3719866417618776,
+    "Symbol": "IPCALAB"
+  },
+  "NSE_EQ|INE572A01036": {
+    "UpperLimit": 3.588691394254713,
+    "LowerLimit": 2.5112919991663105,
+    "Symbol": "JBCHEPHARM"
+  },
+  "NSE_EQ|INE572E01012": {
+    "UpperLimit": 5.512590605459602,
+    "LowerLimit": 3.8851457000459173,
+    "Symbol": "PNBHOUSING"
+  },
+  "NSE_EQ|INE573A01042": {
+    "UpperLimit": 3.271454253516888,
+    "LowerLimit": 2.386604277274076,
+    "Symbol": "JKTYRE"
+  },
+  "NSE_EQ|INE575P01011": {
+    "UpperLimit": 4.672711527413371,
+    "LowerLimit": 2.8686154952358067,
+    "Symbol": "STARHEALTH"
+  },
+  "NSE_EQ|INE584A01023": {
+    "UpperLimit": 2.8488295087667588,
+    "LowerLimit": 2.959561057421538,
+    "Symbol": "NMDC"
+  },
+  "NSE_EQ|INE585B01010": {
+    "UpperLimit": 3.795531719453861,
+    "LowerLimit": 2.3252288254042313,
+    "Symbol": "MARUTI"
+  },
+  "NSE_EQ|INE589A01014": {
+    "UpperLimit": 5.19818491045827,
+    "LowerLimit": 3.6439574280899527,
+    "Symbol": "NLCINDIA"
+  },
+  "NSE_EQ|INE591G01017": {
+    "UpperLimit": 3.1438542048721483,
+    "LowerLimit": 3.2211704873984,
+    "Symbol": "COFORGE"
+  },
+  "NSE_EQ|INE596F01018": {
+    "UpperLimit": 5.988595541564946,
+    "LowerLimit": 4.223176072975316,
+    "Symbol": "PTCIL"
+  },
+  "NSE_EQ|INE596I01012": {
+    "UpperLimit": 3.8105627175674317,
+    "LowerLimit": 4.652904323589643,
+    "Symbol": "CAMS"
+  },
+  "NSE_EQ|INE599M01018": {
+    "UpperLimit": 3.167874286015342,
+    "LowerLimit": 5.257640486671385,
+    "Symbol": "JUSTDIAL"
+  },
+  "NSE_EQ|INE600L01024": {
+    "UpperLimit": 4.486253720619263,
+    "LowerLimit": 2.6265942451896365,
+    "Symbol": "LALPATHLAB"
+  },
+  "NSE_EQ|INE602A01031": {
+    "UpperLimit": 4.104330693172854,
+    "LowerLimit": 3.5606307540399618,
+    "Symbol": "PCBL"
+  },
+  "NSE_EQ|INE603J01030": {
+    "UpperLimit": 4.010008044581502,
+    "LowerLimit": 2.528324517634092,
+    "Symbol": "PIIND"
+  },
+  "NSE_EQ|INE615H01020": {
+    "UpperLimit": 3.741869059445277,
+    "LowerLimit": 10.0996053744217,
+    "Symbol": "TITAGARH"
+  },
+  "NSE_EQ|INE615P01015": {
+    "UpperLimit": 4.319433039245122,
+    "LowerLimit": 4.32921761849434,
+    "Symbol": "QUESS"
+  },
+  "NSE_EQ|INE616N01034": {
+    "UpperLimit": 5.189437583679855,
+    "LowerLimit": 4.795592534424245,
+    "Symbol": "INOXINDIA"
+  },
+  "NSE_EQ|INE619A01035": {
+    "UpperLimit": 5.05160338344058,
+    "LowerLimit": 4.970389061578901,
+    "Symbol": "PATANJALI"
+  },
+  "NSE_EQ|INE619B01017": {
+    "UpperLimit": 6.1980608732442555,
+    "LowerLimit": 7.9984745687095335,
+    "Symbol": "NEWGEN"
+  },
+  "NSE_EQ|INE628A01036": {
+    "UpperLimit": 2.25817247333314,
+    "LowerLimit": 3.2059174726601674,
+    "Symbol": "UPL"
+  },
+  "NSE_EQ|INE634I01029": {
+    "UpperLimit": 5.064655162149475,
+    "LowerLimit": 4.630960918019623,
+    "Symbol": "KNRCON"
+  },
+  "NSE_EQ|INE634S01028": {
+    "UpperLimit": 2.6855696428055666,
+    "LowerLimit": 2.813447281048694,
+    "Symbol": "MANKIND"
+  },
+  "NSE_EQ|INE640A01023": {
+    "UpperLimit": 4.115563813471344,
+    "LowerLimit": 2.256104447806487,
+    "Symbol": "SKFINDIA"
+  },
+  "NSE_EQ|INE646L01027": {
+    "UpperLimit": 2.7561191723025007,
+    "LowerLimit": 2.413416698113693,
+    "Symbol": "INDIGO"
+  },
+  "NSE_EQ|INE647A01010": {
+    "UpperLimit": 3.141886644710213,
+    "LowerLimit": 2.4125064840274972,
+    "Symbol": "SRF"
+  },
+  "NSE_EQ|INE647O01011": {
+    "UpperLimit": 3.6570770426835395,
+    "LowerLimit": 4.101841938437742,
+    "Symbol": "ABFRL"
+  },
+  "NSE_EQ|INE660A01013": {
+    "UpperLimit": 3.6777469567409935,
+    "LowerLimit": 4.099793189988924,
+    "Symbol": "SUNDARMFIN"
+  },
+  "NSE_EQ|INE663F01024": {
+    "UpperLimit": 3.2357029254903678,
+    "LowerLimit": 3.4093444337786196,
+    "Symbol": "NAUKRI"
+  },
+  "NSE_EQ|INE665A01038": {
+    "UpperLimit": 4.9432435971544795,
+    "LowerLimit": 6.023195593904632,
+    "Symbol": "SWANENERGY"
+  },
+  "NSE_EQ|INE665L01035": {
+    "UpperLimit": 4.794488317963513,
+    "LowerLimit": 3.7510323221303836,
+    "Symbol": "VARROC"
+  },
+  "NSE_EQ|INE668F01031": {
+    "UpperLimit": 4.632766505358469,
+    "LowerLimit": 2.457013488917511,
+    "Symbol": "JYOTHYLAB"
+  },
+  "NSE_EQ|INE669C01036": {
+    "UpperLimit": 3.0048843434497186,
+    "LowerLimit": 2.0748808173748854,
+    "Symbol": "TECHM"
+  },
+  "NSE_EQ|INE669E01016": {
+    "UpperLimit": 8.268758823337038,
+    "LowerLimit": 4.431902940557134,
+    "Symbol": "IDEA"
+  },
+  "NSE_EQ|INE670A01012": {
+    "UpperLimit": 4.033144197469478,
+    "LowerLimit": 2.519638461683087,
+    "Symbol": "TATAELXSI"
+  },
+  "NSE_EQ|INE670K01029": {
+    "UpperLimit": 3.759926550744038,
+    "LowerLimit": 3.664165983446686,
+    "Symbol": "LODHA"
+  },
+  "NSE_EQ|INE671A01010": {
+    "UpperLimit": 2.175679577360906,
+    "LowerLimit": 3.473264919417038,
+    "Symbol": "HONAUT"
+  },
+  "NSE_EQ|INE671H01015": {
+    "UpperLimit": 5.080460552844444,
+    "LowerLimit": 4.021298257331048,
+    "Symbol": "SOBHA"
+  },
+  "NSE_EQ|INE672A01018": {
+    "UpperLimit": 3.571554102378949,
+    "LowerLimit": 3.8318445211585055,
+    "Symbol": "TATAINVEST"
+  },
+  "NSE_EQ|INE673O01025": {
+    "UpperLimit": 4.345323985275158,
+    "LowerLimit": 3.856259818422522,
+    "Symbol": "TBOTEK"
+  },
+  "NSE_EQ|INE674K01013": {
+    "UpperLimit": 3.00498050660823,
+    "LowerLimit": 2.466385484800641,
+    "Symbol": "ABCAPITAL"
+  },
+  "NSE_EQ|INE684F01012": {
+    "UpperLimit": 4.443593393733018,
+    "LowerLimit": 5.86283641022562,
+    "Symbol": "FSL"
+  },
+  "NSE_EQ|INE685A01028": {
+    "UpperLimit": 1.8683813962065243,
+    "LowerLimit": 2.4120567315923007,
+    "Symbol": "TORNTPHARM"
+  },
+  "NSE_EQ|INE686F01025": {
+    "UpperLimit": 4.316920653312996,
+    "LowerLimit": 4.693997743044993,
+    "Symbol": "UBL"
+  },
+  "NSE_EQ|INE686Y01026": {
+    "UpperLimit": 5.301439580924427,
+    "LowerLimit": 2.784567151781183,
+    "Symbol": "FINEORG"
+  },
+  "NSE_EQ|INE691A01018": {
+    "UpperLimit": 7.127427872198663,
+    "LowerLimit": 5.533408062702982,
+    "Symbol": "UCOBANK"
+  },
+  "NSE_EQ|INE692A01016": {
+    "UpperLimit": 2.5515751503894593,
+    "LowerLimit": 4.906349240438147,
+    "Symbol": "UNIONBANK"
+  },
+  "NSE_EQ|INE699H01024": {
+    "UpperLimit": 4.8601994933512636,
+    "LowerLimit": 3.2858492285857013,
+    "Symbol": "AWL"
+  },
+  "NSE_EQ|INE700A01033": {
+    "UpperLimit": 4.858031319754279,
+    "LowerLimit": 4.086687314295441,
+    "Symbol": "JUBLPHARMA"
+  },
+  "NSE_EQ|INE702C01027": {
+    "UpperLimit": 2.743646640161173,
+    "LowerLimit": 2.721271252435008,
+    "Symbol": "APLAPOLLO"
+  },
+  "NSE_EQ|INE703B01027": {
+    "UpperLimit": 3.5778445515702777,
+    "LowerLimit": 2.5229928516145432,
+    "Symbol": "RATNAMANI"
+  },
+  "NSE_EQ|INE704P01025": {
+    "UpperLimit": 4.756883342343419,
+    "LowerLimit": 3.5481869019714933,
+    "Symbol": "COCHINSHIP"
+  },
+  "NSE_EQ|INE716A01013": {
+    "UpperLimit": 5.504057899867462,
+    "LowerLimit": 2.927222605820624,
+    "Symbol": "WHIRLPOOL"
+  },
+  "NSE_EQ|INE721A01047": {
+    "UpperLimit": 3.1575638168003173,
+    "LowerLimit": 3.043619756133922,
+    "Symbol": "SHRIRAMFIN"
+  },
+  "NSE_EQ|INE726G01019": {
+    "UpperLimit": 2.981451077353521,
+    "LowerLimit": 6.563563367385133,
+    "Symbol": "ICICIPRULI"
+  },
+  "NSE_EQ|INE731H01025": {
+    "UpperLimit": 4.336581220043672,
+    "LowerLimit": 5.247648976758692,
+    "Symbol": "ACE"
+  },
+  "NSE_EQ|INE732A01036": {
+    "UpperLimit": 6.411719673915667,
+    "LowerLimit": 6.393120973837568,
+    "Symbol": "KIRLOSBROS"
+  },
+  "NSE_EQ|INE732I01013": {
+    "UpperLimit": 4.320074937481112,
+    "LowerLimit": 4.430641177261283,
+    "Symbol": "ANGELONE"
+  },
+  "NSE_EQ|INE733E01010": {
+    "UpperLimit": 2.398171185880817,
+    "LowerLimit": 2.6908825423405336,
+    "Symbol": "NTPC"
+  },
+  "NSE_EQ|INE736A01011": {
+    "UpperLimit": 3.8964169303645813,
+    "LowerLimit": 4.679246209182671,
+    "Symbol": "CDSL"
+  },
+  "NSE_EQ|INE738I01010": {
+    "UpperLimit": 4.292826343798046,
+    "LowerLimit": 3.3529624888447267,
+    "Symbol": "ECLERX"
+  },
+  "NSE_EQ|INE739E01017": {
+    "UpperLimit": 3.4187530993037334,
+    "LowerLimit": 2.296746458185608,
+    "Symbol": "CERA"
+  },
+  "NSE_EQ|INE741K01010": {
+    "UpperLimit": 9.671798669457361,
+    "LowerLimit": 5.640822209806773,
+    "Symbol": "CREDITACC"
+  },
+  "NSE_EQ|INE742F01042": {
+    "UpperLimit": 2.8420906958781553,
+    "LowerLimit": 6.36327321320662,
+    "Symbol": "ADANIPORTS"
+  },
+  "NSE_EQ|INE743M01012": {
+    "UpperLimit": 5.578796197975969,
+    "LowerLimit": 5.278461258077736,
+    "Symbol": "RHIM"
+  },
+  "NSE_EQ|INE745G01035": {
+    "UpperLimit": 4.23089614280821,
+    "LowerLimit": 4.361436266688955,
+    "Symbol": "MCX"
+  },
+  "NSE_EQ|INE749A01030": {
+    "UpperLimit": 4.163803242514432,
+    "LowerLimit": 4.322218332040499,
+    "Symbol": "JINDALSTEL"
+  },
+  "NSE_EQ|INE752E01010": {
+    "UpperLimit": 2.599026770817304,
+    "LowerLimit": 3.5428568917219323,
+    "Symbol": "POWERGRID"
+  },
+  "NSE_EQ|INE758E01017": {
+    "UpperLimit": 3.0295709171944356,
+    "LowerLimit": 3.1168171135264444,
+    "Symbol": "JIOFIN"
+  },
+  "NSE_EQ|INE758T01015": {
+    "UpperLimit": 4.716985531830727,
+    "LowerLimit": 3.761750606986695,
+    "Symbol": "ZOMATO"
+  },
+  "NSE_EQ|INE759A01021": {
+    "UpperLimit": 5.257958586965649,
+    "LowerLimit": 4.508869732498141,
+    "Symbol": "MASTEK"
+  },
+  "NSE_EQ|INE761H01022": {
+    "UpperLimit": 4.020627431998278,
+    "LowerLimit": 2.916631666960233,
+    "Symbol": "PAGEIND"
+  },
+  "NSE_EQ|INE763G01038": {
+    "UpperLimit": 0,
+    "LowerLimit": 0,
+    "Symbol": ""
+  },
+  "NSE_EQ|INE765G01017": {
+    "UpperLimit": 2.8462599377729885,
+    "LowerLimit": 3.723163772801501,
+    "Symbol": "ICICIGI"
+  },
+  "NSE_EQ|INE769A01020": {
+    "UpperLimit": 4.730956093283128,
+    "LowerLimit": 4.109856211519863,
+    "Symbol": "AARTIIND"
+  },
+  "NSE_EQ|INE775A01035": {
+    "UpperLimit": 4.179441742003921,
+    "LowerLimit": 2.8197488965446578,
+    "Symbol": "MOTHERSON"
+  },
+  "NSE_EQ|INE776C01039": {
+    "UpperLimit": 4.125591654702528,
+    "LowerLimit": 3.669055821492174,
+    "Symbol": "GMRAIRPORT"
+  },
+  "NSE_EQ|INE777K01022": {
+    "UpperLimit": 3.16729240615362,
+    "LowerLimit": 6.474999645372595,
+    "Symbol": "RRKABEL"
+  },
+  "NSE_EQ|INE780C01023": {
+    "UpperLimit": 7.482983420872598,
+    "LowerLimit": 3.2754269597955994,
+    "Symbol": "JMFINANCIL"
+  },
+  "NSE_EQ|INE786A01032": {
+    "UpperLimit": 4.400650680036579,
+    "LowerLimit": 2.4311945744262786,
+    "Symbol": "JKLAKSHMI"
+  },
+  "NSE_EQ|INE787D01026": {
+    "UpperLimit": 3.0574950249287243,
+    "LowerLimit": 3.72045909569697,
+    "Symbol": "BALKRISIND"
+  },
+  "NSE_EQ|INE791I01019": {
+    "UpperLimit": 8.71335291882294,
+    "LowerLimit": 3.748718728400715,
+    "Symbol": "BRIGADE"
+  },
+  "NSE_EQ|INE795G01014": {
+    "UpperLimit": 2.5183060135952324,
+    "LowerLimit": 6.424935964506267,
+    "Symbol": "HDFCLIFE"
+  },
+  "NSE_EQ|INE797F01020": {
+    "UpperLimit": 3.9916144343427606,
+    "LowerLimit": 3.404826216511758,
+    "Symbol": "JUBLFOOD"
+  },
+  "NSE_EQ|INE806T01020": {
+    "UpperLimit": 7.5260855188574265,
+    "LowerLimit": 4.914070417112969,
+    "Symbol": "SAPPHIRE"
+  },
+  "NSE_EQ|INE810G01011": {
+    "UpperLimit": 3.8350170371846493,
+    "LowerLimit": 3.0791641280211755,
+    "Symbol": "SHYAMMETL"
+  },
+  "NSE_EQ|INE811K01011": {
+    "UpperLimit": 3.699577919910193,
+    "LowerLimit": 4.133587460580498,
+    "Symbol": "PRESTIGE"
+  },
+  "NSE_EQ|INE813A01018": {
+    "UpperLimit": 3.8487937746487577,
+    "LowerLimit": 4.051471567630831,
+    "Symbol": "MAHLIFE"
+  },
+  "NSE_EQ|INE813H01021": {
+    "UpperLimit": 2.633351456288906,
+    "LowerLimit": 4.2334128500203425,
+    "Symbol": "TORNTPOWER"
+  },
+  "NSE_EQ|INE814H01011": {
+    "UpperLimit": 6.287619318561814,
+    "LowerLimit": 3.9128655452151193,
+    "Symbol": "ADANIPOWER"
+  },
+  "NSE_EQ|INE821I01022": {
+    "UpperLimit": 3.2359279571699404,
+    "LowerLimit": 6.251019026150772,
+    "Symbol": "IRB"
+  },
+  "NSE_EQ|INE823G01014": {
+    "UpperLimit": 2.7242625084593817,
+    "LowerLimit": 3.273077816427039,
+    "Symbol": "JKCEMENT"
+  },
+  "NSE_EQ|INE825A01020": {
+    "UpperLimit": 4.817556300382803,
+    "LowerLimit": 3.933328047950651,
+    "Symbol": "VTL"
+  },
+  "NSE_EQ|INE825V01034": {
+    "UpperLimit": 4.375493494611553,
+    "LowerLimit": 5.664118146261611,
+    "Symbol": "MANYAVAR"
+  },
+  "NSE_EQ|INE834M01019": {
+    "UpperLimit": 3.9582511204629958,
+    "LowerLimit": 4.456181605478669,
+    "Symbol": "RTNINDIA"
+  },
+  "NSE_EQ|INE836A01035": {
+    "UpperLimit": 2.4022507174084784,
+    "LowerLimit": 4.781041670697808,
+    "Symbol": "BSOFT"
+  },
+  "NSE_EQ|INE839M01018": {
+    "UpperLimit": 5.318347460941,
+    "LowerLimit": 5.097947621866289,
+    "Symbol": "SCHNEIDER"
+  },
+  "NSE_EQ|INE842C01021": {
+    "UpperLimit": 4.173914198227801,
+    "LowerLimit": 3.003884059080602,
+    "Symbol": "MINDACORP"
+  },
+  "NSE_EQ|INE844O01030": {
+    "UpperLimit": 2.210327979086533,
+    "LowerLimit": 3.816534804527153,
+    "Symbol": "GUJGASLTD"
+  },
+  "NSE_EQ|INE848E01016": {
+    "UpperLimit": 2.9543161689561845,
+    "LowerLimit": 4.304513780955642,
+    "Symbol": "NHPC"
+  },
+  "NSE_EQ|INE849A01020": {
+    "UpperLimit": 3.8090559803988273,
+    "LowerLimit": 5.004800054908047,
+    "Symbol": "TRENT"
+  },
+  "NSE_EQ|INE850D01014": {
+    "UpperLimit": 4.033633817831843,
+    "LowerLimit": 3.3945525285321754,
+    "Symbol": "GODREJAGRO"
+  },
+  "NSE_EQ|INE852O01025": {
+    "UpperLimit": 3.89109967299209,
+    "LowerLimit": 2.376256530545747,
+    "Symbol": "APTUS"
+  },
+  "NSE_EQ|INE854D01024": {
+    "UpperLimit": 4.771625366511414,
+    "LowerLimit": 1.9693226145442293,
+    "Symbol": "UNITDSPR"
+  },
+  "NSE_EQ|INE860A01027": {
+    "UpperLimit": 2.457193102151428,
+    "LowerLimit": 1.7119826928107793,
+    "Symbol": "HCLTECH"
+  },
+  "NSE_EQ|INE868B01028": {
+    "UpperLimit": 4.039616592824235,
+    "LowerLimit": 6.9917041335219645,
+    "Symbol": "NCC"
+  },
+  "NSE_EQ|INE870H01013": {
+    "UpperLimit": 3.9744869764711566,
+    "LowerLimit": 4.712379508425151,
+    "Symbol": "NETWORK18"
+  },
+  "NSE_EQ|INE871C01038": {
+    "UpperLimit": 4.9029671383736,
+    "LowerLimit": 8.20748345081025,
+    "Symbol": "AVANTIFEED"
+  },
+  "NSE_EQ|INE872J01023": {
+    "UpperLimit": 4.488990321602695,
+    "LowerLimit": 3.9715757793187265,
+    "Symbol": "DEVYANI"
+  },
+  "NSE_EQ|INE878B01027": {
+    "UpperLimit": 3.7471152306133746,
+    "LowerLimit": 4.994469867418646,
+    "Symbol": "KEI"
+  },
+  "NSE_EQ|INE879I01012": {
+    "UpperLimit": 8.667551803701123,
+    "LowerLimit": 3.6509191567624266,
+    "Symbol": "DBREALTY"
+  },
+  "NSE_EQ|INE880J01026": {
+    "UpperLimit": 3.471236697264206,
+    "LowerLimit": 4.345284461470911,
+    "Symbol": "JSWINFRA"
+  },
+  "NSE_EQ|INE881D01027": {
+    "UpperLimit": 2.4878689435464203,
+    "LowerLimit": 5.410843221184163,
+    "Symbol": "OFSS"
+  },
+  "NSE_EQ|INE883A01011": {
+    "UpperLimit": 2.457240724109715,
+    "LowerLimit": 2.5458455152910635,
+    "Symbol": "MRF"
+  },
+  "NSE_EQ|INE883F01010": {
+    "UpperLimit": 8.82528511679295,
+    "LowerLimit": 4.946520306654952,
+    "Symbol": "AADHARHFC"
+  },
+  "NSE_EQ|INE885A01032": {
+    "UpperLimit": 3.310289401601855,
+    "LowerLimit": 3.4317694054559453,
+    "Symbol": "ARE\u0026M"
+  },
+  "NSE_EQ|INE891D01026": {
+    "UpperLimit": 5.359760864473125,
+    "LowerLimit": 4.806356370238248,
+    "Symbol": "REDINGTON"
+  },
+  "NSE_EQ|INE901L01018": {
+    "UpperLimit": 4.274524568486127,
+    "LowerLimit": 2.9898793441803924,
+    "Symbol": "APLLTD"
+  },
+  "NSE_EQ|INE903U01023": {
+    "UpperLimit": 3.9376460782640406,
+    "LowerLimit": 3.368149302077317,
+    "Symbol": "SIGNATURE"
+  },
+  "NSE_EQ|INE913H01037": {
+    "UpperLimit": 4.948108653478492,
+    "LowerLimit": 5.682580010781082,
+    "Symbol": "ENDURANCE"
+  },
+  "NSE_EQ|INE914M01019": {
+    "UpperLimit": 5.981637697655298,
+    "LowerLimit": 3.4438288941919666,
+    "Symbol": "ASTERDM"
+  },
+  "NSE_EQ|INE917I01010": {
+    "UpperLimit": 2.338363581944979,
+    "LowerLimit": 1.9317162979062192,
+    "Symbol": "BAJAJ-AUTO"
+  },
+  "NSE_EQ|INE918I01026": {
+    "UpperLimit": 3.486239791234491,
+    "LowerLimit": 4.887854835677049,
+    "Symbol": "BAJAJFINSV"
+  },
+  "NSE_EQ|INE918Z01012": {
+    "UpperLimit": 6.4138524848522405,
+    "LowerLimit": 5.516476720944038,
+    "Symbol": "KAYNES"
+  },
+  "NSE_EQ|INE927D01051": {
+    "UpperLimit": 4.566653727806157,
+    "LowerLimit": 3.5811319697188684,
+    "Symbol": "JBMA"
+  },
+  "NSE_EQ|INE930H01031": {
+    "UpperLimit": 3.2844797854647703,
+    "LowerLimit": 3.353045477380589,
+    "Symbol": "KPRMILL"
+  },
+  "NSE_EQ|INE931S01010": {
+    "UpperLimit": 4.862247465694179,
+    "LowerLimit": 3.7475304937339318,
+    "Symbol": "ADANIENSOL"
+  },
+  "NSE_EQ|INE933S01016": {
+    "UpperLimit": 2.968252968411467,
+    "LowerLimit": 2.2162215853064353,
+    "Symbol": "INDIAMART"
+  },
+  "NSE_EQ|INE935A01035": {
+    "UpperLimit": 3.4891765553553866,
+    "LowerLimit": 2.713971186320839,
+    "Symbol": "GLENMARK"
+  },
+  "NSE_EQ|INE935N01020": {
+    "UpperLimit": 5.0917843326378875,
+    "LowerLimit": 7.88274821294513,
+    "Symbol": "DIXON"
+  },
+  "NSE_EQ|INE944F01028": {
+    "UpperLimit": 6.052772387363935,
+    "LowerLimit": 2.695049785330279,
+    "Symbol": "RADICO"
+  },
+  "NSE_EQ|INE947Q01028": {
+    "UpperLimit": 3.4995225415319084,
+    "LowerLimit": 6.95873712328249,
+    "Symbol": "LAURUSLABS"
+  },
+  "NSE_EQ|INE949L01017": {
+    "UpperLimit": 4.222665739379724,
+    "LowerLimit": 2.511599535229952,
+    "Symbol": "AUBANK"
+  },
+  "NSE_EQ|INE951I01027": {
+    "UpperLimit": 3.1823559513474633,
+    "LowerLimit": 2.2459907179089242,
+    "Symbol": "VGUARD"
+  },
+  "NSE_EQ|INE961O01016": {
+    "UpperLimit": 3.848804397044833,
+    "LowerLimit": 2.7653702511229743,
+    "Symbol": "RAINBOW"
+  },
+  "NSE_EQ|INE962Y01021": {
+    "UpperLimit": 5.03362939951962,
+    "LowerLimit": 7.303427734236941,
+    "Symbol": "IRCON"
+  },
+  "NSE_EQ|INE967H01025": {
+    "UpperLimit": 4.234476872381257,
+    "LowerLimit": 4.879047573643399,
+    "Symbol": "KIMS"
+  },
+  "NSE_EQ|INE970X01018": {
+    "UpperLimit": 3.631812835095327,
+    "LowerLimit": 3.6414498232220445,
+    "Symbol": "LEMONTREE"
+  },
+  "NSE_EQ|INE974X01010": {
+    "UpperLimit": 2.645998266853898,
+    "LowerLimit": 3.239476948987809,
+    "Symbol": "TIINDIA"
+  },
+  "NSE_EQ|INE976G01028": {
+    "UpperLimit": 3.8035903257578108,
+    "LowerLimit": 3.311435880491292,
+    "Symbol": "RBLBANK"
+  },
+  "NSE_EQ|INE979A01025": {
+    "UpperLimit": 5.201580363520777,
+    "LowerLimit": 6.203421040981273,
+    "Symbol": "SAREGAMA"
+  },
+  "NSE_EQ|INE980O01024": {
+    "UpperLimit": 4.545845788026685,
+    "LowerLimit": 6.643547290119171,
+    "Symbol": "JYOTICNC"
+  },
+  "NSE_EQ|INE982J01020": {
+    "UpperLimit": 4.241980158800275,
+    "LowerLimit": 3.8416599834093645,
+    "Symbol": "PAYTM"
+  },
+  "NSE_EQ|INE987B01026": {
+    "UpperLimit": 4.1664029499836515,
+    "LowerLimit": 3.2793521543647683,
+    "Symbol": "NATCOPHARM"
+  },
+  "NSE_EQ|INE999A01023": {
+    "UpperLimit": 3.946948046092644,
+    "LowerLimit": 5.30579061186331,
+    "Symbol": "KSB"
+  }
+}
